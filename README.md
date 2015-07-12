@@ -1,2 +1,2 @@
-# android-nanodegree-portfolio
-Android Developer Nanodegree Project 0: My App Portfolio
+# My App Portfolio
+This is Android Developer Nanodegree Project 0
