@@ -27,42 +27,42 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
                 android:text="@string/my_apps"
-                android:textAppearance="@style/TextAppearance.AppCompat.Headline"/>
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
             <Button
                 style="@style/Widget.App.Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="@string/button_app_spotify"/>
+                android:text="@string/button_app_spotify" />
 
             <Button
                 style="@style/Widget.App.Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="@string/button_app_scores"/>
+                android:text="@string/button_app_scores" />
 
             <Button
                 style="@style/Widget.App.Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="@string/button_app_library"/>
+                android:text="@string/button_app_library" />
 
             <Button
                 style="@style/Widget.App.Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="@string/button_app_build_it"/>
+                android:text="@string/button_app_build_it" />
 
             <Button
                 style="@style/Widget.App.Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="@string/button_app_reader"/>
+                android:text="@string/button_app_reader" />
 
             <Button
                 style="@style/Widget.App.Button"
@@ -70,7 +70,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="@string/button_app_capstone"
-                android:theme="@style/Widget.App.Button.Red"/>
+                android:theme="@style/Widget.App.Button.Red" />
 
         </LinearLayout>
 
